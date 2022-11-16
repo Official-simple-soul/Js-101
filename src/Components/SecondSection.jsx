@@ -10,16 +10,16 @@ const SecondSection = () => {
         </div>
         <div className="class-images py-4 space-y-4 grid justify-items-stretch md:w-full lg:w-100 md:px-8">
             <div className="image md:flex items-center md:justify-start mx-auto md:mx-0 text-center">
-                <img src={class1} alt="" width='300px' height='300px' className='rounded-full md:mr-8'/>
+                <img src={class1} alt="" width='300px' height='300px' className='rounded-full md:mr-8' loading='lazy'/>
                 <h1 className='text-3xl'>Javascript</h1>
             </div>
             <div className="image md:justify-self-end md:flex items-center justify-between mx-auto md:mx-0 text-center">
                 <h1 className='text-3xl hidden md:block'>Python</h1>
-                <img src={class2} alt="" width='300px' height='300px' className='rounded-full md:ml-8'/>
+                <img src={class2} alt="" width='300px' height='300px' className='rounded-full md:ml-8' loading='lazy'/>
                 <h1 className='text-3xl md:hidden'>Python</h1>
             </div>
             <div className="image  md:flex items-center justify-start mx-auto md:mx-0 text-center">
-                <img src={class1} alt="" width='300px' height='300px' className='rounded-full md:mr-8'/>
+                <img src={class1} alt="" width='300px' height='300px' className='rounded-full md:mr-8' loading='lazy'/>
                 <h1 className='text-3xl'>Data Science</h1>
             </div>
             

@@ -51,7 +51,7 @@ const Carousel = () => {
                 return (
                     <div key={id} className={`${active===id?'col-span-3 w-full justify-self-center scale-100 z-10':'hidden opacity-20 md:block'}`}>
                         <div className="content relative">
-                            <img src={img} alt="" className='h-96 object-cover md:h-100 w-full'/>
+                            <img src={img} alt="" className='h-96 object-cover md:h-100 w-full' loading='lazy'/>
                         </div>
                     </div>
                 )
