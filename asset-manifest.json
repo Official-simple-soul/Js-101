@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Js-101/static/css/main.004fef7c.css",
+    "main.js": "/Js-101/static/js/main.2f4a228f.js",
+    "static/js/787.edb1baeb.chunk.js": "/Js-101/static/js/787.edb1baeb.chunk.js",
+    "static/media/class-1.jpg": "/Js-101/static/media/class-1.f4c465a266e3f17f39ca.jpg",
+    "static/media/class-2.jpg": "/Js-101/static/media/class-2.64ed46c142c8ef942eef.jpg",
+    "static/media/SecondImage.jpg": "/Js-101/static/media/SecondImage.47aeadadfba91d039405.jpg",
+    "static/media/MainImage.jpg": "/Js-101/static/media/MainImage.fc322ab7955c7de87866.jpg",
+    "static/media/ThirdImage.jpg": "/Js-101/static/media/ThirdImage.099695d8a799a25c672a.jpg",
+    "static/media/kodehauz.png": "/Js-101/static/media/kodehauz.4350c016e1b932ff19f8.png",
+    "static/media/google.png": "/Js-101/static/media/google.b31361249fb7518952ee.png",
+    "static/media/akwaibom.jpeg": "/Js-101/static/media/akwaibom.b033764c670102731767.jpeg",
+    "static/media/dsc.webp": "/Js-101/static/media/dsc.aaa8c3b525bc7cbe9c16.webp",
+    "static/media/microsoft.png": "/Js-101/static/media/microsoft.33b0f9f1ec3cfd1e79a9.png",
+    "index.html": "/Js-101/index.html",
+    "main.004fef7c.css.map": "/Js-101/static/css/main.004fef7c.css.map",
+    "main.2f4a228f.js.map": "/Js-101/static/js/main.2f4a228f.js.map",
+    "787.edb1baeb.chunk.js.map": "/Js-101/static/js/787.edb1baeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004fef7c.css",
+    "static/js/main.2f4a228f.js"
+  ]
+}
