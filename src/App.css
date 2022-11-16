@@ -3,6 +3,12 @@
     width: 80%;
 }
 
+.modalbg {
+    background-image: linear-gradient(to bottom, rgba(5, 147, 157, 0.9), rgba(5, 147, 157, 0.9)), url(./assets/SecondImage.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 @media (max-width: 450px) {
     .container {
